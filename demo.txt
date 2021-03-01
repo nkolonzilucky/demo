@@ -1,1 +1,7 @@
 Initial Content
+First change on the master branch post the creation of the test branch
+Changes made from master branch
+Changes made from test branch
+Anothe change from master
+testing git reset from test branch
+Testing tracked and untracked files in test branch
