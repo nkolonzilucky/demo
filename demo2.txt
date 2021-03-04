@@ -1,1 +1,2 @@
 Intital line on demo2.txt file
+Changes made in the github repo
